@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=youhyun0809)](https://solved.ac/youhyun0809)          
 ### 📈 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhyeon0809&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhyeon0809&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </div>

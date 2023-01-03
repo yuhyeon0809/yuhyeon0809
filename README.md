@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello%20World!&desc=yuhyeon's%20github&descAlign=58&descAlignY=62&fontSize=50&animation=blink)  
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Hello%20World!&desc=yuhyeon's%20github&descAlign=58&descAlignY=62&fontSize=50&animation=blink)  
 
 
 ### 📚 Skills

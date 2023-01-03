@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
+<!-- <div align=center> -->
   
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Hello%20World!&desc=yuhyeon's%20github&descAlign=58&descAlignY=62&fontSize=50&animation=blink)  
 
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   
 ### 📈 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhyeon0809&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<!-- </div> -->
 
